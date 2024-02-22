@@ -29,5 +29,4 @@ The playback will continue to the next file in the playlist upon completion.
 
 Access the App on Netlify:
 
-You can also access the deployed version of the React app on Netlify at hemanth-audio-player.netlify.app.
-Click here to visit the deployed app.
+You can also access the deployed version of the React app on Netlify at https://hemanth-audio-player.netlify.app. Click here to visit the deployed app.
